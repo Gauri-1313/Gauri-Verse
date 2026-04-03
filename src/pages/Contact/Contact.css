@@ -33,7 +33,7 @@
 }
 .contact-info p{
     margin-bottom: 30px;
-    color: #242424;
+    color: #6e6b6b;
 }
 .info-item{
     display: flex;
@@ -41,7 +41,7 @@
     gap: 15px;
     margin-bottom: 20px;
     font-size:16px;
-    color:#232222;
+    color:#9a9a9a;
 }
 .contact-icon{
     font-size: 22px;

@@ -21,8 +21,8 @@ const projects = [
     img: img2,
     desc: "Personal portfolio to showcase my design and coding projects.",
     skills: ["HTML", "CSS", "Bootstrap"],
-    github: "https://github.com/Gauri-1313/Gauri_Portfolio.git",
-    liveDemo: "#"
+    github: "https://github.com/Gauri-1313/Gauri-Verse.git",
+    liveDemo: "https://heartfelt-marzipan-e61636.netlify.app/"
   },
 
   {
