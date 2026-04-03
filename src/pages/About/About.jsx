@@ -30,7 +30,7 @@ const About = () => {
             </div>
             <div className='text-about'>
                 <p>
-                    Hi, I'm Gauri, a passionate Frontend Developer and AI & DS student.
+                    Hi, I'm Gauri, a Frontend Developer and AI student.
                     I enjoy building modern, responsive, and interactive web interfaces that provide
                     a great user experience. I focus on clean design, smooth animations, and writing
                     efficient code using modern web technologies. I'm always learning new tools and
