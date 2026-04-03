@@ -22,8 +22,6 @@ const Hero = () => {
         className="unicorn-bg"
       ></div>
 
-
-      {/* 💎 Content */}
       <div className='content'>
 
         <div className="hero-left">

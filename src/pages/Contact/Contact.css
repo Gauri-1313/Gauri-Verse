@@ -6,8 +6,11 @@
 .title{
     text-align: center;
     font-size:40px;
-    color:#393838;
+    color:#4f4e4e;
     margin-bottom: 60px;
+}
+h2{
+    color: #272727;
 }
 .title::after{
     content:"";
